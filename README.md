@@ -3,6 +3,7 @@ Integrantes:
 Val 
 Maiki
 lu
+sofi
 
 
 Regla: Indentacion general de 4 espacios por nivel. En lineas de continuacion (codigo dividido en multiples lineas con parentesis/corchetes):
