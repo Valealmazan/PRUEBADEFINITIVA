@@ -1,4 +1,4 @@
-Nombre del equipo: Papus
+Nombre del equipo: Papus.2
 Integrantes: 
 Val 
 Maiki
